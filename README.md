@@ -19,7 +19,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
   #### Libraries / frameworks
-  ![ReactiveX](https://img.shields.io/badge/-RxJS-333333?style=for-the-badge&logo=reactiveX&logoColor=B7178C)
   ![JWT](https://img.shields.io/badge/-JSON_WEB_Tokens-333333?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
   <br/>
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
