@@ -35,7 +35,7 @@
 
 <p style="text-align: center;">
   <a href="https://t.me/VladlenMarchenko">
-    <img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=telegram&message=Oleksii&color=007ec6">
+    <img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=telegram&message=Vladlen&color=007ec6">
   </a>
 
 </p>
