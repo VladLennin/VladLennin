@@ -20,6 +20,7 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+<br/>
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 
 #### Libraries / frameworks
@@ -31,6 +32,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![MobX Badge](https://img.shields.io/badge/MobX-F95?logo=mobx&logoColor=fff&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux&logoColor=7248b6)
+<br/>
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
 
@@ -60,6 +62,7 @@
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
 
 ### IDE ecosystem
+
 ![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
