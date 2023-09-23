@@ -13,7 +13,6 @@
   ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=for-the-badge&logo=java)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=for-the-badge&logo=Csharp&logoColor=239120)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
   #### Core
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
