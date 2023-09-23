@@ -7,6 +7,8 @@
 - 👨‍💻 &nbsp; Currently working with frontend
 - 🚀 &nbsp; Learning more about Java Script ecosystem
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladLennin)
+
 ### 🛠 &nbsp;Tech Stack
 
 #### Familiar languages
