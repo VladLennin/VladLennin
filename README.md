@@ -8,10 +8,6 @@
 - 🚀 &nbsp; Learning more about Java Script ecosystem
   <br/>
   <br/>
-  <br/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladLennin)
-  <br/>
-  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladLennin)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 
