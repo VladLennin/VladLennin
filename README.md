@@ -77,3 +77,7 @@
   </a>
 
 </p>
+
+<div align="end">
+   <a href="https://wakatime.com/@018c6dc3-4265-4171-ac2e-b8b727a81501"><img src="https://wakatime.com/badge/user/018c6dc3-4265-4171-ac2e-b8b727a81501.svg" alt="Total time coded since Dec 15 2023" /></a>
+</div>
